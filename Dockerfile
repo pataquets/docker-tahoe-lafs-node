@@ -1,4 +1,4 @@
-FROM pataquets/tahoe-lafs
+FROM tahoelafs/base:devel
 
 RUN \
   pwd && \
